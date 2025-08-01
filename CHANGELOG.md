@@ -1,0 +1,10 @@
+# Changelog
+
+## 1.0.0 (2025-08-01)
+
+
+### Features
+
+* add automation workflow ([98bb901](https://github.com/Caffeino/social/commit/98bb901ed76ba7e13ee7e3fadb3d9a38e849c6b5))
+* release please script ([f774508](https://github.com/Caffeino/social/commit/f77450884e10ac9ca06467c8bacd4acc51043142))
+* skaffold and first commit ([8b617f5](https://github.com/Caffeino/social/commit/8b617f5637a86ce44c7fc7cad0b779918bf6b08a))
