@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Caffeino/social/compare/v1.0.0...v1.1.0) (2025-08-01)
+
+
+### Features
+
+* update api version automatically ([7f400ea](https://github.com/Caffeino/social/commit/7f400ea5235aa917b8748775817131917a5b7e93))
+
 ## 1.0.0 (2025-08-01)
 
 
