@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Caffeino/social/compare/v1.1.0...v1.2.0) (2025-08-02)
+
+
+### Features
+
+* dockerfile ([30b64a7](https://github.com/Caffeino/social/commit/30b64a727cde6340043cd48f12adae086a601c16))
+
 ## [1.1.0](https://github.com/Caffeino/social/compare/v1.0.0...v1.1.0) (2025-08-01)
 
 
